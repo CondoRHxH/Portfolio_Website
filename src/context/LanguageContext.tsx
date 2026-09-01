@@ -37,8 +37,8 @@ const translations = {
     },
     timeline: {
       title: "Education",
-      finalYear: "Final Year",
-      thirdYear: "3rd Year",
+      finalYear: "2024 - 2027",
+      thirdYear: "2024 - 2027",
       eng: "Engineering Cycle Computer Science & Management",
       engSchool: "École des Hautes Études d'Ingénierie, Oujda",
       english: "English Studies",
@@ -132,8 +132,8 @@ const translations = {
     },
     timeline: {
       title: "Formation",
-      finalYear: "Dernière Année",
-      thirdYear: "3ème Année",
+      finalYear: "2024 - 2027",
+      thirdYear: "2024 - 2027",
       eng: "Cycle d'Ingénieur Informatique et Gestion",
       engSchool: "École des Hautes Études d'Ingénierie, Oujda",
       english: "Étude Anglais",
