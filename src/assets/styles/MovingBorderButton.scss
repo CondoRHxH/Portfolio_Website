@@ -1,0 +1,36 @@
+.moving-border-container {
+  position: relative;
+  overflow: hidden;
+  padding: 1px;
+  border-radius: 999px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+.moving-border-inner {
+  position: absolute;
+  inset: 0;
+  border-radius: 999px;
+  overflow: hidden;
+}
+.moving-border-svg { position: absolute; top: 0; left: 0; }
+.moving-border-dot {
+  height: 60px;
+  width: 60px;
+  opacity: 0.8;
+  background: radial-gradient(circle, #a78bfa 40%, transparent 70%);
+  filter: blur(4px);
+}
+.moving-border-content {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 10px 24px;
+  border-radius: 999px;
+  background: #0f0f0f;
+  color: #fff;
+  font-size: 14px;
+  z-index: 1;
+}
