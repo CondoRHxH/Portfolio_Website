@@ -22,6 +22,7 @@ function Contact() {
               <span className="icon"><LinkedInIcon /></span>
               <span>LinkedIn</span>
             </a>
+            
           </div>
         </div>
       </div>

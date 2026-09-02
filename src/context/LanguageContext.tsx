@@ -13,7 +13,7 @@ const translations = {
     hero: {
       name: "Fahd Benbali",
       tagline: "Full Stack Developer",
-      about: "Experienced web developer skilled in Node.js, Laravel, React, PHP, Java, JEE, and JavaScript, with hands-on experience across real-world project most of them deployed to production. Also with a background in management and marketing.",
+      about: "Experienced web developer skilled in Node.js, Laravel, React, PHP, Java, JEE, and JavaScript, with hands on experience across real world project most of them deployed to production. Also with a background in management and marketing.",
       linkedin: "LinkedIn",
       kaggle: "Kaggle",
       leetcode: "LeetCode",
@@ -32,7 +32,7 @@ const translations = {
       },
       genai: {
         title: "GenAI & LLM",
-        desc: "Staying relevant in the market by leveraging the latest AI models in your projects. I have experience implementing AI In some of my projects."
+        desc: "Staying relevant in the market by leveraging the latest AI models in the projects. While having experience implementing AI In some of my projects."
       }
     },
     timeline: {
@@ -61,15 +61,15 @@ const translations = {
       items: {
         powerbi: {
           title: "Power BI E-Commerce Sales Analytics",
-          desc: "Built an end-to-end Power BI dashboard analyzing Moroccan regional e-commerce sales. Handled ETL and data cleaning in Power Query, built custom DAX metrics, and visualized customer demographics and operational logistics bottlenecks."
+          desc: "Built an end to end Power BI dashboard analyzing Moroccan regional e-commerce sales. Handled ETL and data cleaning in Power Query, built custom DAX metrics, and visualized customer demographics and operational logistics bottlenecks."
         },
         appReclamation: {
           title: "APP RECLAMATION",
-          desc: "Built an academic complaints/reclamations management system with Laravel along with some collegues, including PDF export via barryvdh/laravel-dompdf, Excel data imports, and cookie-based auto-login. Deployed to production on InfinityFree with a migrated MySQL database."
+          desc: "Built an academic complaints/reclamations management system with Laravel along with some collegues, including PDF export via barryvdh/laravel-dompdf, Excel data imports, and cookie based auto login. Deployed to production on InfinityFree with a migrated MySQL database."
         },
         jobfit: {
           title: "JobFit AI",
-          desc: "Built an AI-powered resume analyzer with Python with a team, using Streamlit, and the Groq API (LLaMA 3.1) giving job seekers an ATS-style match score, strengths/weaknesses breakdown, and an AI chat coach for real-time resume feedback, backed by SQLite for storage."
+          desc: "Built an AI powered resume analyzer with Python with a team, using Streamlit, and the Groq API (LLaMA 3.1) giving job seekers an ATS style match score, strengths/weaknesses breakdown, and an AI chat coach for real time resume feedback, backed by SQLite for storage."
         },
         ecommerce: {
           title: "Modern E-Commerce",
@@ -77,19 +77,19 @@ const translations = {
         },
         banking: {
           title: "Banking App",
-          desc: "Built a personal finance manager with secure login, an analytics dashboard with income/expense tracking and spending breakdowns, a full transaction history, and an AI-powered financial advisor."
+          desc: "Built a personal finance manager with secure login, an analytics dashboard with income/expense tracking and spending breakdowns, a full transaction history, and an AI powered financial advisor."
         },
         linkSaver: {
           title: "Link Saver",
-          desc: "Built a browser extension + Node.js/Express/MongoDB backend for saving links on the fly auto-fetches page metadata via Cheerio and lets you attach a description, note, and tags. JWT-based auth with bcrypt-hashed passwords."
+          desc: "Built a browser extension + Node.js/Express/MongoDB backend for saving links on the fly auto fetches page metadata via Cheerio and lets you attach a description, note, and tags. JWT based auth with bcrypt hashed passwords."
         },
         gestionHotel: {
           title: "Gestion Hotel",
-          desc: "Built a hotel management system with PHP and MySQL featuring room browsing with some friends, an online reservation flow, and payment simulation, with a dedicated JAVA for backend to list and manage bookings. Runs on a classic PHP/XAMPP stack with clean, server-rendered pages."
+          desc: "Built a hotel management system with PHP and MySQL featuring room browsing with some friends, an online reservation flow, and payment simulation, with a dedicated JAVA for backend to list and manage bookings. Runs on a classic PHP/XAMPP stack with clean, server rendered pages."
         },
         kubernetes: {
           title: "Kubernetes API Deployment",
-          desc: "Deployed a Node.js/Express API to a Kubernetes cluster with minikube, configuring health probes and service manifests for a production-style setup."
+          desc: "Deployed a Node.js/Express API to a Kubernetes cluster with minikube, configuring health probes and service manifests for a production style setup."
         }
       }
     },
@@ -99,12 +99,19 @@ const translations = {
     },
     emailMe: {
       title: "Email Me",
-      subtitle: "Got a project in mind? Send a message below.",
+      subtitle: "Got something in mind? Send a message below.",
       name: "Name",
       email: "Email Address",
       message: "Message",
       submit: "Submit",
-      success: "Thanks for reaching out!"
+      success: "Thanks for reaching out!",
+      phone: "Phone",
+      linkedin :"Connect with me"
+    },
+    footer: {
+      designedBy: "A Portfolio Designed By",
+      moi:"Me",
+      rights: "All rights reserved."
     }
   },
   fr: {
@@ -128,15 +135,15 @@ const translations = {
       techStack: "Stack technique :",
       fullstack: {
         title: "Développement Web Full Stack",
-        desc: "J'ai développé une grande variété d'applications web de A à Z avec des technologies modernes comme React et Flask. Je maîtrise solidement le cycle de vie du développement logiciel (SDLC), aussi bien côté frontend que backend."
+        desc: "J'ai développé une grande variété d'applications web de A à Z avec des technologies modernes comme React et Node.JS."
       },
       devops: {
         title: "DevOps & Automatisation",
-        desc: "Une fois l'application développée, j'aide les clients à mettre en place des tests DevOps, des pipelines CI/CD et l'automatisation du déploiement pour garantir un Go-Live réussi."
+        desc: "Bonne connaissance de certains concepts DevOps, des pipelines CI/CD et de la conteneurisation avec Docker."
       },
       genai: {
         title: "IA Générative & LLM",
-        desc: "Restez compétitif en exploitant les derniers modèles d'IA dans vos projets. J'ai une expérience professionnelle dans la création de solutions GenAI de niveau entreprise pour renforcer la prise de décision intelligente."
+        desc: "Restez compétitif en exploitant les derniers modèles d'IA dans mes projets. J'ai une expérience concréte dans l'intégration de AI."
       }
     },
     timeline: {
@@ -165,15 +172,15 @@ const translations = {
       items: {
         powerbi: {
           title: "Analyse de Ventes E-Commerce Power BI",
-          desc: "Conçu un tableau de bord Power BI interactif analysant les performances e-commerce au Maroc (+167K MAD de CA). Nettoyage des données ETL dans Power Query, modélisation de mesures DAX (CA, Profit, Panier Moyen, Taux de retour) et analyse démographique et logistique."
+          desc: "Conçu un tableau de bord Power BI interactif analysant les performances e-commerce au Maroc. Nettoyage des données ETL dans Power Query, modélisation de mesures DAX (CA, Profit, Panier Moyen, Taux de retour) et analyse démographique et logistique."
         },
         appReclamation: {
           title: "APP RECLAMATION",
-          desc: "Développé un système de gestion des réclamations académiques avec Laravel, incluant l'export PDF via barryvdh/laravel-dompdf, l'importation de données Excel et une connexion automatique par cookies. Déployé en production sur InfinityFree avec une base de données MySQL migrée."
+          desc: "Développé en équipe un système de gestion des réclamations académiques avec Laravel, incluant l'export PDF via barryvdh/laravel-dompdf, l'importation de données Excel et une connexion automatique par cookies. Déployé en production sur InfinityFree avec une base de données MySQL migrée."
         },
         jobfit: {
           title: "JobFit AI",
-          desc: "Développé un analyseur de CV alimenté par l'IA avec Python, Streamlit et l'API Groq (LLaMA 3.1), offrant aux candidats un score de correspondance de type ATS, une analyse des points forts/faibles, ainsi qu'un coach IA pour un retour en temps réel sur leur CV, le tout appuyé par SQLite pour le stockage."
+          desc: "Développé en équipe un analyseur de CV alimenté par l'IA avec Python, Streamlit et l'API Groq (LLaMA 3.1) offrant aux candidats un score de correspondance de type ATS, une analyse des points forts/faibles, ainsi qu'un coach IA pour un retour en temps réel sur leur CV, le tout appuyé par SQLite pour le stockage."
         },
         ecommerce: {
           title: "Modern E-Commerce",
@@ -189,7 +196,7 @@ const translations = {
         },
         gestionHotel: {
           title: "Gestion Hotel",
-          desc: "Développé un système de gestion hôtelière avec PHP et MySQL incluant la consultation des chambres, un parcours de réservation en ligne et une simulation de paiement, avec un backend dédié à la gestion des réservations. Fonctionne sur une stack classique PHP/XAMPP avec des pages rendues côté serveur."
+          desc: "Développé un système de gestion hôtelière en équipe avec PHP et MySQL, incluant la consultation des chambres, un parcours de réservation en ligne et une simulation de paiement, avec un backend dédié à la gestion des réservations. Fonctionne sur une stack classique PHP/XAMPP avec des pages rendues côté serveur."
         },
         kubernetes: {
           title: "Kubernetes API Deployment",
@@ -203,12 +210,19 @@ const translations = {
     },
     emailMe: {
       title: "Email-Moi",
-      subtitle: "Un projet en tête ? Envoyez-moi un message ci-dessous.",
+      subtitle: "Quelque chose en tête ? Envoyez-moi un message ci-dessous.",
       name: "Nom",
       email: "Adresse e-mail",
       message: "Message",
       submit: "Envoyer",
-      success: "Merci de m'avoir contacté !"
+      success: "Merci de m'avoir contacté !",
+      phone: "Téléphone",
+      linkedin :'Connectons-nous'
+    },
+     footer: {
+      designedBy: "Un portfolio conçu par",
+      moi:"Moi",
+      rights: "Tous droits réservés."
     }
   }
 };

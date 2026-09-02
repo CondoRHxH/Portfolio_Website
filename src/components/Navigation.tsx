@@ -15,6 +15,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 import { useLanguage } from '../context/LanguageContext';
 
+
 const drawerWidth = 240;
 
 function Navigation() {

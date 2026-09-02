@@ -40,7 +40,8 @@ function App() {
                 <Timeline/>
                 <Project/>
                 <EmailMe/>
-                <Contact/>
+                {/* <Contact/> */}
+                <Footer/>
             </FadeIn>
             {/* <Footer /> */}
         </div>
