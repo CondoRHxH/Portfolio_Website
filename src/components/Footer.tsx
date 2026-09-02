@@ -9,7 +9,7 @@ function Footer() {
   return (
     <footer>
       <div>
-        <a href="github.com/CondoRHxH/Portfolio_Website" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+        <a href="https://github.com/CondoRHxH/Portfolio_Website" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         {/* <a href="" target="_blank" rel="noreferrer"><LinkedInIcon/></a> */}
       </div>
       <p>{t.footer.designedBy} <a href="https://github.com/CondoRHxH/Portfolio_Website" target="_blank" rel="noreferrer">{t.footer.moi}</a></p>
