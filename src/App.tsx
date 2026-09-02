@@ -12,6 +12,7 @@ import FadeIn from './components/FadeIn';
 import { LanguageProvider } from './context/LanguageContext';
 import './index.scss';
 import FloatingNav from "./components/FloatingNav";
+import EmailMe from "./components/EmailMe";
 
 function App() {
     const [mode, setMode] = useState<string>('dark');
@@ -38,6 +39,7 @@ function App() {
                 <Expertise/>
                 <Timeline/>
                 <Project/>
+                <EmailMe/>
                 <Contact/>
             </FadeIn>
             {/* <Footer /> */}

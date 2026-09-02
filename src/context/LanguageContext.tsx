@@ -96,6 +96,15 @@ const translations = {
     contact: {
       title: "Get In Touch",
       subtitle: "Feel free to reach out for collaborations or just a friendly hello."
+    },
+    emailMe: {
+      title: "Email Me",
+      subtitle: "Got a project in mind? Send a message below.",
+      name: "Name",
+      email: "Email Address",
+      message: "Message",
+      submit: "Submit",
+      success: "Thanks for reaching out!"
     }
   },
   fr: {
@@ -191,6 +200,15 @@ const translations = {
     contact: {
       title: "Contactez-Moi",
       subtitle: "N'hésitez pas à me contacter pour une collaboration ou juste pour dire bonjour."
+    },
+    emailMe: {
+      title: "Email-Moi",
+      subtitle: "Un projet en tête ? Envoyez-moi un message ci-dessous.",
+      name: "Nom",
+      email: "Adresse e-mail",
+      message: "Message",
+      submit: "Envoyer",
+      success: "Merci de m'avoir contacté !"
     }
   }
 };
