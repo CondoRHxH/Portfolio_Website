@@ -2,12 +2,12 @@
 
 ## About
 
-This is my personal portfolio site a place to show off my projects, skills, and background as a full-stack developer.
+This is my personal portfolio site a place to show off my projects, skills, and background as a Full-Stack developer.
 
 ## 🔗 Live site: fahdbenbali.vercel.app
 
 ## Features
-- Responsive design & mobile-friendly
+- Responsive design & mobile friendly
 - French and English mode support
 - Multi-component, easily customizable layout
 - Built with React, TypeScript & Sass
