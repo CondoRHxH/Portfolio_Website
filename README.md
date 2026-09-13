@@ -47,7 +47,7 @@ Open http://localhost:3000 to view it in your browser. The page reloads automati
 
 Project structure
 
-Components live in /src/components — that's the main place to edit content, sections, and layout.
+Components live in /src/components that's the main place to edit content, sections, and layout.
 
 ## License
 
