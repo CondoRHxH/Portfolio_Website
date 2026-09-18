@@ -14,12 +14,12 @@ This is my personal portfolio site a place to show off my projects, skills, and 
 - Deployed on Vercel
 
 ## Tech Stack
-Language: TypeScript, JavaScript
-Framework/Library: React
-Markup: HTML5
-Styling: Sass / SCSS
-Package manager: npm
-Runtime: Node.js
+- Language: TypeScript, JavaScript
+- Framework/Library: React
+- Markup: HTML5
+- Styling: Sass / SCSS
+- Package manager: npm
+- Runtime: Node.js
 
 ## Prerequisites
 
