@@ -45,7 +45,7 @@ npm start
 ```
 Open http://localhost:3000 to view it in your browser. The page reloads automatically on edits, and lint errors will show up in the console.
 
-Project structure
+## Project structure
 
 Components live in /src/components that's the main place to edit content, sections, and layout.
 
