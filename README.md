@@ -1,8 +1,8 @@
-# My Personal Portfolio
+# My Personal Portfolio Website
 
 ## About
 
-This is my personal portfolio site a place to show off my projects, skills, and background as a Full-Stack developer.
+This is my personal portfolio site a place to show my projects, skills, and background as a Full-Stack developer and Data-Analytics.
 
 ## 🔗 Live site: fahdbenbali.vercel.app
 
