@@ -58,4 +58,4 @@ This project is licensed under the MIT License.
 Feel free to reach out:
 
 Portfolio: fahdbenbali.vercel.app
-GitHub: @CondoRHxH
+GitHub: @CondoRHxH.
