@@ -39,7 +39,7 @@ cd Portfolio_Website
 npm install
 ```
 
-Run locally
+Run locally.
 ```
 npm start
 ```
